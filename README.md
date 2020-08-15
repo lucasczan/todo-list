@@ -2,7 +2,7 @@
 Todo list criado com intuito de estudar Redux e duck pattern.<br/>
 Layout criado em <a href="https://www.adobe.com/br/products/xd.html"> Adobe XD </a> arquivo na pasta assets.
 
-  <img src="./assets/print.png" width="20%"/>
+  <img src="./assets/print.png" width="30%"/>
 
 1- Baixar dependências: 
 ```javascript
