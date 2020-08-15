@@ -1,5 +1,5 @@
 # todo-list
-Todo list criado com intuito de estudar Redux e duck pattern.<br/>
+To do list criado com intuito de estudar Redux e duck pattern.<br/>
 Layout criado em <a href="https://www.adobe.com/br/products/xd.html"> Adobe XD </a> arquivo na pasta assets.
 
   <img src="./assets/print.png" width="30%"/>
