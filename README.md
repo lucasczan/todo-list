@@ -6,7 +6,7 @@ Layout criado em <a href="https://www.adobe.com/br/products/xd.html"> Adobe XD <
 
   <h2> 🖥 Tecnologias utilizadas :</h2> 
   <ul>
-    <li>React Native</li>
+  <li><a href="https://reactnative.dev/"> React Native </a></li>
     <li><a href="https://redux.js.org/api/api-reference"> Redux </a></li>
     <li><a href="https://styled-components.com/docs"> Styled Components </a></li>
   </ul>
